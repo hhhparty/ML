@@ -3,8 +3,8 @@
 Zero base learning quantitative investment
 chapter 1 
 2018.02.13.
-
-22种不同风格的mpl图
+本例学习多种matplotlib模块库中的style绘图风格函数。共有22种不同风格的mpl图
+可选的风格由plt.style.available枚举中，枚举后可通过plt.style.use(xss)使用。
 '''
 
 import numpy as np
