@@ -1,0 +1,15 @@
+1. 注册github账号
+2. 本地安装git
+3. 建立ssh密钥对
+ ssh-keygen -t rsa -C "hhhparty@163.com“
+ 中间可以将加盐，即passphrase
+ 之后生成私钥、公钥
+4.登陆github，设置settings-ssh keys-添加sshkey
+5.验证连接
+ $ ssh -T hhhparty@163.com
+6.设置用户名和邮箱
+$git config --global user.email "hhhparty@163.com“
+$git config --global user.name "hhhparty”
+7.设置设置GitHub网站标记
+$git config --global github.user hhhparty@163.com
+$git config --global $github.token 获取到的token
