@@ -6,7 +6,8 @@
  之后生成私钥、公钥
 4.登陆github，设置settings-ssh keys-添加sshkey
 5.验证连接
- $ ssh -T hhhparty@163.com
+ $ ssh -T git@github.com
+ 里面说验证成功就行。
 6.设置用户名和邮箱
 $git config --global user.email "hhhparty@163.com“
 $git config --global user.name "hhhparty”
