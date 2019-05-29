@@ -1,6 +1,8 @@
 # ML
 Mechine learning study Notes
 
+希望我的分享，能够对大家有所帮助。May these will help you.
+
 In my lectures，I share my teaching notes(lectures).
 
 Including:
