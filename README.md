@@ -1,4 +1,4 @@
-# ML
+# 机器学习教学资料分享
 Mechine learning study Notes
 
 希望我的分享，能够对大家有所帮助。May these will help you.
